@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/wesiv/Desktop/KRUSKAL/main.cpp
+iostream
+-
+fstream
+-
+chrono
+-
+climits
+-
+random
+-
+algorithm
+-
+sstream
+-
+
